@@ -1,2 +1,2 @@
 nome = input('Digite seu nome')
-  print(f`{nome} é legal!)
+print(f`{nome} é legal!)
